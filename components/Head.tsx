@@ -1,5 +1,5 @@
 import NextHead from "next/head";
-import { SITE_NAME, DEFAULT_DESCRIPTION } from "../constants/siteConstant";
+import { SITE_NAME, DEFAULT_DESCRIPTION } from "../constants/SiteConstant";
 
 const Head = ({ title = "", description = "", ogImageUrl = "" }) => {
   return (
