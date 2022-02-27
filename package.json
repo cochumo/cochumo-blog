@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aspida/axios": "^1.8.0",
     "@types/styled-components": "^5.1.23",
     "autoprefixer": "^10.4.2",
+    "axios": "^0.26.0",
     "babel-plugin-styled-components": "^2.0.6",
     "next": "12.1.0",
     "postcss": "^8.4.6",
